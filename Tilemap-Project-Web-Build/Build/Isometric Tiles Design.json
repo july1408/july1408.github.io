@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tilemap Project",
+"dataUrl": "Isometric Tiles Design.data.unityweb",
+"wasmCodeUrl": "Isometric Tiles Design.wasm.code.unityweb",
+"wasmFrameworkUrl": "Isometric Tiles Design.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
